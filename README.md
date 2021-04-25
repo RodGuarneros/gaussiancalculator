@@ -12,13 +12,14 @@ You need a simple list in format .txt
 
 # Installation
 
-pip install calculating_distributions
-from calculating_distrubutions import Gaussian, Binomial
+pip install calculating-distributions
+from calculating_distributions import Gaussian, Binomial
+
 
 # Documentation
 ## Gaussian Distribution
 
-Gaussian distribution class for calculating and 
+    Gaussian distribution class for calculating and 
     visualizing a Gaussian distribution.
 
 ### Method Gaussian()
