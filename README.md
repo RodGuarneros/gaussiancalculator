@@ -12,7 +12,8 @@ You need a simple list in format .txt
 
 # Installation
 
-pip install calculating_distributions as Gausiaandistribution, Bonomialdistribution
+pip install calculating_distributions
+from calculating_distrubutions import Gaussian, Binomial
 
 # Documentation
 ## Gaussian Distribution
